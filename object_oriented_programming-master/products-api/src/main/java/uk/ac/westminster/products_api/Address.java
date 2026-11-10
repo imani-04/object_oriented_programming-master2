@@ -17,4 +17,4 @@ public class Address {
     public String getCity() {return city;}
     public String getPostcode() {return postcode;}
 }
-//end class Address.
+//end class Address
