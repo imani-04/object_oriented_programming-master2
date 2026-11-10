@@ -37,6 +37,6 @@ public class ProductController {
         return productService.findByName(name);
     }
 
-//end class ProductController.
+//end class ProductController
 
 }//end class
