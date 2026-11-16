@@ -7,7 +7,7 @@ public class Product {
     private String name;
     private double price;
 
-    public Product() {}; // needed for when JSON is used
+    public Product() {}// needed for when JSON is used
 
 
 
